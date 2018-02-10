@@ -1,7 +1,7 @@
 # Building a Dungeon Crawler Game - Part 2
 ## [ReactU](https://www.youtube.com/c/reactuniversity) - Episode #12
 
-This is the companion code for part one of a multipart series [found here](https://youtu.be/DyWUW7Px1MQ).
+This is the companion code for part two of a multipart series [found here](https://youtu.be/DyWUW7Px1MQ).
 
 In this episode we will take everything we have learned in the past 11 episodes at ReactU and apply them to a 2d role-playing game much in the likes of the Legend of Zelda I!
 
